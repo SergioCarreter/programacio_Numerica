@@ -1,2 +1,3 @@
-# programacio_Numerica
-Ejercicios resueltos M1 T01
+## Programacion Numerica
+
+Ejercicios resueltos correspondientes a M1 T01
